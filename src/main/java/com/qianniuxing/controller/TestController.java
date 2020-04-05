@@ -1,4 +1,4 @@
-package com.qingniuxing.controller;
+package com.qianniuxing.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
