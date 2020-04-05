@@ -14,6 +14,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TestController {
 
+
+
     @RequestMapping("/getApp")
     public String getApp() {
         return "测试TestJenkinsApplication";
