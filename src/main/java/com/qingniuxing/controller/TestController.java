@@ -18,7 +18,7 @@ public class TestController {
 
     @RequestMapping("/getApp")
     public String getApp() {
-        return "测试jenkins自动化部署！";
+        return "测试jenkins自动化部署...";
     }
 
 }
