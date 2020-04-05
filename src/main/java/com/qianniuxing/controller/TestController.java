@@ -21,4 +21,9 @@ public class TestController {
         return "测试jenkins自动化部署...";
     }
 
+    @RequestMapping("/getUser")
+    public String getUser(Long id) {
+        return "测试user";
+    }
+
 }
